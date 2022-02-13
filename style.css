@@ -103,5 +103,14 @@ input{
   word-break: break-all;
 }
 
+@media (max-width:500px){
+
+  .chat-popup{
+      bottom: 120px;
+      right:10%;
+      width: 80vw;
+  }
+}
+
 
 
