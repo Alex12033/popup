@@ -109,9 +109,9 @@ input{
   .popup{
       bottom: 2rem;
       right:10%;
-      width: 50vw;
-      height: 40vw;
-      overflow-y: scroll;
+      width: 40vw;
+      height: 30vw;
+      
   }
 }
 
@@ -120,8 +120,8 @@ input{
   .popup{
     bottom: 2rem;
     right:10%;
-    width: 50vw;
-    height: 40vw;
+    width: 30vw;
+    height: 50vw;
     overflow-y: scroll;
   }
 }
