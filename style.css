@@ -105,10 +105,11 @@ input{
 
 @media (max-width:500px){
 
-  .chat-popup{
-      bottom: 120px;
+  .popup{
+      bottom: 2rem;
       right:10%;
-      width: 80vw;
+      width: 50vw;
+      height: 40vw;
   }
 }
 
